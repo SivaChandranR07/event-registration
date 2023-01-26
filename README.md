@@ -20,6 +20,7 @@ After completing the design export it to PDF.
 ## OUTPUT:
 ![output](./design.jpg)
 
+
 ## Result:
 Hence the UX design for the Event Registration webpage is done.
 
